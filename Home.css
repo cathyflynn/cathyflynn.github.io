@@ -1,0 +1,363 @@
+.u-section-1 {
+  min-height: 932px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 902px;
+  background-image: url("images/mom2.jpg");
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 0 30px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.5625rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: -2px 2px 8px 0 rgba(128,128,128,1);
+  font-family: "Architects Daughter";
+  margin: 104px auto 0 49px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.5rem;
+  letter-spacing: 1px;
+  background-image: none;
+  font-family: "Architects Daughter";
+  margin: 19px auto 0 417px;
+  padding: 0 4px 0 3px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.625rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: 0 2px 8px 0 rgba(128,128,128,1);
+  font-family: "Architects Daughter";
+  margin: 117px 156px 0 auto;
+  padding: 4px 9px 5px;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.625rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: 0 2px 8px 0 rgba(128,128,128,1);
+  font-family: "Architects Daughter";
+  margin: -7px 82px 0 auto;
+  padding: 4px 12px 4px 11px;
+}
+
+.u-section-1 .u-btn-5 {
+  font-size: 0.625rem;
+  letter-spacing: 1px;
+  font-family: "Architects Daughter";
+  animation-duration: 1000ms;
+  border-style: none;
+  text-transform: uppercase;
+  box-shadow: 0 2px 8px 0 rgba(128,128,128,1);
+  background-image: none;
+  margin: -5px 285px 0 auto;
+  padding: 20px 5px 20px 3px;
+}
+
+.u-section-1 .u-btn-6 {
+  font-size: 0.625rem;
+  letter-spacing: 1px;
+  font-family: "Architects Daughter";
+  animation-duration: 1000ms;
+  border-style: none;
+  text-transform: uppercase;
+  box-shadow: 0 2px 8px 0 rgba(128,128,128,1);
+  background-image: none;
+  margin: -102px 228px 0 auto;
+  padding: 20px 5px 20px 3px;
+}
+
+.u-section-1 .u-btn-7 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.625rem;
+  letter-spacing: 1px;
+  background-image: none;
+  font-family: "Architects Daughter";
+  margin: 4px auto 0 90px;
+  padding: 10px 0 11px;
+}
+
+.u-section-1 .u-btn-8 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.5rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: -2px 2px 8px 0 rgba(128,128,128,1);
+  font-family: "Architects Daughter";
+  margin: 59px auto 0 446px;
+  padding: 0 3px;
+}
+
+.u-section-1 .u-btn-9 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.625rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: -2px 2px 8px 0 rgba(128,128,128,1);
+  font-family: "Architects Daughter";
+  margin: 40px 318px 0 auto;
+  padding: 0 4px 0 3px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 902px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 153px;
+  height: 153px;
+  background-image: url("images/Momself1.jpg");
+  background-position: 50% 50%;
+  margin: 32px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Architects Daughter";
+  margin: 22px 15px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 774px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -1px;
+    margin-bottom: 31px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 744px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 87px;
+    margin-left: 31px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 51px;
+    margin-right: 497px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 51px;
+    margin-right: 110px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: 0;
+    margin-right: 45px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-top: 0;
+    margin-right: 216px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 5px;
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-top: -81px;
+    margin-right: 175px;
+    padding: 12px 1px 12px 0;
+  }
+
+  .u-section-1 .u-btn-7 {
+    margin-top: 0;
+    margin-left: 61px;
+  }
+
+  .u-section-1 .u-btn-8 {
+    margin-top: 41px;
+    margin-right: 497px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-9 {
+    margin-top: 29px;
+    margin-right: 243px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 744px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 827px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 600px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 313px;
+    margin-left: 116px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-top: -58px;
+    margin-right: 168px;
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-top: 98px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-7 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-8 {
+    margin-top: -146px;
+    margin-right: auto;
+    margin-left: 273px;
+  }
+
+  .u-section-1 .u-btn-9 {
+    margin-top: 5px;
+    margin-right: 189px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 600px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 128px;
+    height: 128px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 3455px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 597px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 253px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: -7px;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-top: 0;
+    margin-right: 108px;
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-top: -81px;
+  }
+
+  .u-section-1 .u-btn-8 {
+    margin-right: 253px;
+    margin-left: 145px;
+  }
+
+  .u-section-1 .u-btn-9 {
+    margin-right: 17px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 2175px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 376px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 53px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-8 {
+    margin-right: 53px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-9 {
+    margin-right: 0;
+  }
+}
